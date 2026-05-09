@@ -1,0 +1,12 @@
+../Core/Src/main.c:73:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:84:9:SDInit	1
+../Core/Src/main.c:89:6:SDLogInt	2
+../Core/Src/main.c:102:6:FatFS_Write_Test	4
+../Core/Src/main.c:146:5:main	3
+../Core/Src/main.c:212:6:SystemClock_Config	3
+../Core/Src/main.c:254:13:MX_SPI1_Init	2
+../Core/Src/main.c:292:13:MX_TIM2_Init	4
+../Core/Src/main.c:337:13:MX_TIM9_Init	3
+../Core/Src/main.c:375:13:MX_GPIO_Init	1
+../Core/Src/main.c:456:6:HAL_GPIO_EXTI_Callback	6
+../Core/Src/main.c:503:6:Error_Handler	1

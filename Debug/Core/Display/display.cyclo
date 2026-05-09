@@ -1,0 +1,11 @@
+../Core/Display/display.c:45:6:setDisplayChars	3
+../Core/Display/display.c:73:6:setDisplayDigits	3
+../Core/Display/display.c:110:6:showNumOfSectors	5
+../Core/Display/display.c:151:6:show4DigitNumber	2
+../Core/Display/display.c:160:6:showAllZeros	1
+../Core/Display/display.c:168:6:processDisplayDigits	2
+../Core/Display/display.c:194:6:processDisplayChars	2
+../Core/Display/display.c:220:6:showEditChars	1
+../Core/Display/display.c:228:6:showTimeChars	1
+../Core/Display/display.c:236:6:showDashes	1
+../Core/Display/display.c:246:6:prepareTime	3

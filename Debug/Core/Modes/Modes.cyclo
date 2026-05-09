@@ -1,0 +1,6 @@
+../Core/Modes/Modes.c:24:6:editMode	6
+../Core/Modes/Modes.c:52:6:animationMode	4
+../Core/Modes/Modes.c:69:6:initEdit	1
+../Core/Modes/Modes.c:80:6:processModeExti	4
+../Core/Modes/Modes.c:118:6:processLapZero	2
+../Core/Modes/Modes.c:146:6:processLapTime	4
